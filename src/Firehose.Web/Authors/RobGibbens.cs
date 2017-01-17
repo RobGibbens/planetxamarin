@@ -12,8 +12,8 @@ public class RobGibbens : IWorkAtXamarinOrMicrosoft
     public string StateOrRegion => "Farmington, Michigan";
     public string EmailAddress => "RobGibbens@arteksoftware.com";
     public string TwitterHandle => "RobGibbens";
-    public string GravatarHash => "";
-    public DateTime Started => new DateTime(2004, 01, 06);
+    public string GravatarHash => "6c67ac9df1543aa59cd14fa52882b7b6";
+    public DateTime Started => new DateTime(2014, 01, 06);
 
     public Uri WebSite => new Uri("http://arteksoftware.com/");
     public IEnumerable<Uri> FeedUris { get { yield return new Uri("http://arteksoftware.com/rss/"); } }
